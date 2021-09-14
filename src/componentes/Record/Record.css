@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.record,
+.falabrasil,
+.balancogeral,
+.cidadealerta,
+.afazenda,
+.raulgil,
+.capital,
+.interior,
+.brasilia,
+.culinaria,
+.politica,
+.educacao,
+.policia,
+.culinarianot,
+.esportes {
+    height: 100vh;
+    padding-top: 3.3rem;
+    background-color: rgba(165, 42, 42, .2);
+}
+
+figure {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 8%;
+}
